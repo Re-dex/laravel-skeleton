@@ -21,7 +21,10 @@ clone your newly created repository in your local machine then checkout specific
 
 ## Package Included
 - [Query Filter](https://github.com/Faisal50x/query-filter)
-- [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+- [Laravel Permission](https://github.com/spatie/laravel-permission) *unpublished
+- [Laravel IDE Helper (dev)](https://github.com/barryvdh/laravel-ide-helper)
+- [Laravel Debugbar (dev)](https://github.com/barryvdh/laravel-debugbar) *unpublished
+- [Telescope (dev)](https://github.com/laravel/telescope) *unpublished
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
